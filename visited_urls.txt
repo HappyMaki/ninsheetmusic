@@ -1,0 +1,20 @@
+"https://www.ninsheetmusic.org/browse/series/AnimalCrossing",
+"https://www.ninsheetmusic.org/browse/series/SaGa",
+"https://www.ninsheetmusic.org/browse/series/PokemonMysteryDungeon",
+"https://www.ninsheetmusic.org/browse/series/ProfessorLayton"
+# "https://www.ninsheetmusic.org/browse/series/FinalFantasy",
+# "https://www.ninsheetmusic.org/browse/series/Chrono",
+# "https://www.ninsheetmusic.org/browse/series/MarioParty",
+# "https://www.ninsheetmusic.org/browse/series/BanjoKazooie",
+# "https://www.ninsheetmusic.org/browse/series/PaperMario",
+# "https://www.ninsheetmusic.org/browse/series/Pokemon",
+# "https://www.ninsheetmusic.org/browse/series/Xeno",
+# "https://www.ninsheetmusic.org/browse/series/Other"
+# "https://www.ninsheetmusic.org/browse/series/Touhou",
+# "https://www.ninsheetmusic.org/browse/series/Undertale",
+# "https://www.ninsheetmusic.org/browse/series/MonsterHunter",
+# "https://www.ninsheetmusic.org/browse/series/Tales",
+# "https://www.ninsheetmusic.org/browse/series/KingdomHearts",
+# "https://www.ninsheetmusic.org/browse/series/Kirby",
+# "https://www.ninsheetmusic.org/browse/series/HarvestMoon",
+# "https://www.ninsheetmusic.org/browse/series/GoldenSun"
